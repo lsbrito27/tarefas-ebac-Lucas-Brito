@@ -1,0 +1,15 @@
+Algoritmo da hora de acordar;
+1 - Abrir os Olhos;
+2 - levantar da cama;
+3 - Andar até o banheiro;
+4 - escovar os dentes;
+5 - lavar o rosto;
+6 - arrumar o cabelo;
+7 - Tomar café;
+8 - Se for dia de trabalhar;
+    1.Se arrumar para o trabalho;
+    2.pegar coisas do trabalho;
+    3.Ir para o trabalho;
+9 - Se não for dia de trabalhar;
+    2.Ir jogar;
+FIM.
