@@ -1,0 +1,4 @@
+Código estruturado:
+O código estruturado é como um caminho que a aplicação vai percorrer do começo ao fim, aplicações que utilizam esse tipo de metodologia para a construção do código tem muita repetição de função, pois quando é necessário que se utilize novamente função muitas vezes é necessário reescrevê-la, esse fator e também a complexidade de manutenção acabou deixando essa metodologia em desuso.
+Código orientado a objetos:
+O código orientado a objetos é uma metodologia que reutiliza bem os códigos já escrito tornando bastante dinâmico a forma de interpretar e criar novas melhorias para a aplicação, como as classes podem ser utilizadas em qualquer ponto do código não é necessário novas implementações nem repetições de código.
