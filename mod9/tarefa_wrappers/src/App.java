@@ -7,14 +7,16 @@ public class App {
         //Instanciando o objeto scanner que vai fazer a leitura da variavel idade pelo console.
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("digite a sua idade: ");
-        
-        //Lendo a idade do usuario
-        idade = scanner.nextInt();
 
-        //Conversao de tipo primitivo para tipo complexo
-        Integer idadeWrapper  = idade;
-        System.out.print("Sua idade é: " + idadeWrapper);
-
+        for(int i = 0;i <= 10; i++){
+            
+            if(i%2 == 0){
+                System.out.println(i);
+                System.out.println("Numero Par!");
+                continue;
+            }
+           
+        }
     }
+
 }
